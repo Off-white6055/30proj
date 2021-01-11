@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8y93MmZAIji8/PVnL3WWA2PXneuqUICFklPASONDS0EtXv8eToC0P3+jyQ8FD040OSDykF+6TjcGvrHm6qVdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rebeil\\source\\repos\\Library\\LibraryDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rebeil\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rebeil\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
